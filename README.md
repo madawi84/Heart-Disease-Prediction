@@ -39,5 +39,5 @@ This project applies predictive analytics and machine learning to detect the pre
 - Inspired by academic coursework in DS650 – Predictive Analytics for Business
 
 ## 👩‍💻 Author
-Madawi Alsoyohi – [LinkedIn](https://www.linkedin.com/in/madawi-alsoyohi-7134951a6)
-Raghad Alfhaid 
+- Madawi Alsoyohi – [LinkedIn](https://www.linkedin.com/in/madawi-alsoyohi-7134951a6)
+- Raghad Alfhaid 
